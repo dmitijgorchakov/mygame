@@ -1,3 +1,4 @@
+#qweq
 import tkinter as tk
 
 class ClickerGame:
